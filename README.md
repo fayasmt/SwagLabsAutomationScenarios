@@ -30,8 +30,9 @@ How to add Maven to the Path variable?**
 5. New user variable and added Maven_Home with value C:\apache-maven-3.8.3 ...
 6. Add it to path variable with: %Maven_Home%\bin.
 7. Open cmd and ask for mvn -version in desktop
-**
-To execute/run the Test cases**
+
+
+**To execute/run the Test cases**
 
 1. Right click on Project Folder
 2. Click on Run As --> Maven Test
