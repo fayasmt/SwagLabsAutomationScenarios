@@ -25,7 +25,7 @@ How to add Maven to the Path variable?
 2. Properties.
 3. Advanced System Setting.
 4. Environment Variable.
-5. New user variable and added Maven_Home with value C:\apache-maven-3.5. ...
+5. New user variable and added Maven_Home with value C:\apache-maven-3.8.3 ...
 6. Add it to path variable with: %Maven_Home%\bin.
 7. Open cmd and ask for mvn -version in desktop
 
