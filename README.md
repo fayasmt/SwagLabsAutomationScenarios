@@ -9,7 +9,8 @@ About the Framework
 * TestNG is used for Test management and Reporting 
 * Maven project structure is used for dependancies
 
-Instructions to begin
+
+**Instructions to begin**
 
 1. Download Maven 3.8.2
 2. Add Maven to the Path variable(As given under next title below)
@@ -19,7 +20,8 @@ Instructions to begin
 6. mvn clean verify
 7. Import the project in Eclipse IDE(preferably Eclipse IDE 2020-06)
 
-How to add Maven to the Path variable?
+**
+How to add Maven to the Path variable?**
 
 1. Right click on my computer.
 2. Properties.
@@ -28,13 +30,13 @@ How to add Maven to the Path variable?
 5. New user variable and added Maven_Home with value C:\apache-maven-3.8.3 ...
 6. Add it to path variable with: %Maven_Home%\bin.
 7. Open cmd and ask for mvn -version in desktop
-
-To execute/run the Test cases
+**
+To execute/run the Test cases**
 
 1. Right click on Project Folder
 2. Click on Run As --> Maven Test
 
-Browser preference
+**Browser preference**
 
 This Project is compatible with Google Chrome(Version 93)
 
