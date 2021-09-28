@@ -9,6 +9,10 @@ About the Framework
 * TestNG is used for Test management and Reporting 
 * Maven project structure is used for dependancies
 
+**Browser preference**
+
+This Project is compatible with Google Chrome(Version 93)
+
 
 **Instructions to begin**
 
@@ -36,10 +40,14 @@ How to add Maven to the Path variable?**
 
 1. Right click on Project Folder
 2. Click on Run As --> Maven Test
+3. 
 
-**Browser preference**
+**To view the Reports**
 
-This Project is compatible with Google Chrome(Version 93)
+1. Navigate to Project Folder --> target --> surefire-reports
+2. Please refer any type of report for verification ('emailable-report.html' is recommended)
+
+
 
 
 
