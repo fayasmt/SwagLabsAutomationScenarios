@@ -45,7 +45,6 @@ How to add Maven to the Path variable?**
 
 1. Right click on Project Folder
 2. Click on Run As --> Maven Test
-3. 
 
 
 
