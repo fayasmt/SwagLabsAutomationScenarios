@@ -9,9 +9,11 @@ About the Framework
 * TestNG is used for Test management and Reporting 
 * Maven project structure is used for dependancies
 
+
 **Browser preference**
 
 This Project is compatible with Google Chrome(Version 93)
+
 
 
 **Instructions to begin**
@@ -23,6 +25,8 @@ This Project is compatible with Google Chrome(Version 93)
 5. cd Selenium-Maven-Template (Or whatever folder you cloned it into)
 6. mvn clean verify
 7. Import the project in Eclipse IDE(preferably Eclipse IDE 2020-06)
+
+
 
 **
 How to add Maven to the Path variable?**
@@ -36,11 +40,14 @@ How to add Maven to the Path variable?**
 7. Open cmd and ask for mvn -version in desktop
 
 
+
 **To execute/run the Test cases**
 
 1. Right click on Project Folder
 2. Click on Run As --> Maven Test
 3. 
+
+
 
 **To view the Reports**
 
